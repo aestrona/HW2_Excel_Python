@@ -51,3 +51,6 @@ MANIFEST
 
 # Sphinx documentation
 docs/_build/
+
+/data
+
